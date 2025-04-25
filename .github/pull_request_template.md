@@ -1,13 +1,13 @@
-### Pull Request
+### Describe your changes
 
-**Description**
-- [ ] What feature/bug is being addressed?
-- [ ] What changes were made?
+---
 
-**Related Issue**
-- [ ] Link to issue if available
+### Issue ticket number and link
 
-**Checklist**
-- [ ] Tests passed
-- [ ] Code follows style guidelines
-- [ ] PR has been reviewed
+---
+
+### Checklist before requesting a review
+- [ ] I have performed a self-review of my code
+- [ ] If it is a core feature, I have added thorough tests
+- [ ] Do we need to implement analytics?
+- [ ] Will this be part of a product update? If yes, please write one phrase about this update
